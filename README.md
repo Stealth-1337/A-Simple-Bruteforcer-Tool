@@ -1,4 +1,4 @@
-A-Simple-Bruteforcer-Tool
+A-Simple-Bruteforcer-Tool Contact if Have Any Problems Details Stealth#0069
 :
 
 It is a simple bruteforcer tool for yahoo, hotmail and gmail accounts. It uses email services i.e pop3, smtp ..etc. to crack targeted account using password list.
